@@ -1,2 +1,3 @@
 # hello-world
 testing 123...
+I barely passed programming classes in college and I'm determined to teach myself Python and Ruby now.
